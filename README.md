@@ -51,7 +51,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li>N/A</li>
+    <li>Ruby</li>
 
   </ul>
 </details>
@@ -59,7 +59,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li>Ruby</li>
+    <li>N/A</li>
   </ul>
 </details>
 
@@ -89,7 +89,7 @@ To run the project locally, follow these steps.
 In order to run this project you need to:
 
 - Install [Git](https://git-scm.com/)
-- Install [Node](https://nodejs.org/en/)
+- Install [Ruby](https://www.ruby-lang.org/en/)
 - Install a code editor, I suggest [VsCode](https://code.visualstudio.com/)
 
 ### Setup
@@ -98,6 +98,8 @@ Clone the repo into your local machine:
 
 ```bash
 git clone https://github.com/fmanimashaun/enumerable.git
+
+bundle install
 ```
 
 ### Usage
