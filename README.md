@@ -97,7 +97,7 @@ In order to run this project you need to:
 Clone the repo into your local machine:
 
 ```bash
-git clone git@github.com:edgardsoza/enumerable/tree/enumerable.git
+git clone https://github.com/fmanimashaun/enumerable.git
 ```
 
 ### Usage
@@ -111,15 +111,17 @@ irb> my_list.rb
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Santiago Pons Lezica**
+👤 **Fisayo Michael Animashaun**
 
-- GitHub: [@sntgopl](https://github.com/sntgopl)
-- LinkedIn: [Santiago Pons Lezica](https://www.linkedin.com/in/spons-lezica7/?originalSubdomain=ar)
+- GitHub: [@fmanimashaun](https://github.com/fmanimashaun)
+- Twitter: [@fmanimashaun](https://twitter.com/fmanimashaun)
+- LinkedIn: [Fisayo Michael Animashaun ](https://linkedin.com/in/fmanimashaun)
 
-👤 **Edgard Soza**
+👤 **Demes Ameneshoa**
 
-- [GitHub](https://github.com/edgardsoza)
-- [LinkedIn](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
+- GitHub: [@demesameneshoa](https://github.com/demesameneshoa)
+- Twitter: [@demesabera](https://twitter.com/demesabera)
+- LinkedIn: [Demes Ameneshoa](https://linkedin.com/in/demesameneshoa)
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -140,7 +142,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-https://github.com/edgardsoza/enumerable/issues
+https://github.com/fmanimashaun/enumerable/issues
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
